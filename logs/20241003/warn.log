@@ -1,0 +1,23 @@
+2024-10-03 00:12:35 - WARN: Scheduler is full, cannot schedule task null
+2024-10-03 00:14:15 - WARN: Attempted to schedule task null. No servers are available.
+2024-10-03 00:14:15 - WARN: No servers available to execute tasks.
+2024-10-03 00:14:49 - WARN: Scheduler is full, cannot schedule task null
+2024-10-03 00:14:49 - WARN: Attempted to schedule task null. No servers are available.
+2024-10-03 00:14:49 - WARN: No servers available to execute tasks.
+2024-10-03 02:09:27 - WARN: Scheduler is full, cannot schedule task null
+2024-10-03 02:09:28 - WARN: Attempted to schedule task null. No servers are available.
+2024-10-03 02:09:29 - WARN: No servers available to execute tasks.
+2024-10-03 02:10:01 - WARN: Attempted to add a null task.
+2024-10-03 02:10:09 - WARN: Scheduler is full, cannot schedule task null
+2024-10-03 02:10:10 - WARN: Attempted to schedule task null. No servers are available.
+2024-10-03 02:10:10 - WARN: No servers available to execute tasks.
+2024-10-03 02:13:10 - WARN: Scheduler is full, cannot schedule task null
+2024-10-03 02:13:12 - WARN: Attempted to schedule task null. No servers are available.
+2024-10-03 02:13:12 - WARN: No servers available to execute tasks.
+2024-10-03 12:31:36 - WARN: Scheduler is full, cannot schedule task null
+2024-10-03 21:44:27 - WARN: Attempted to add a null task.
+2024-10-03 21:46:38 - WARN: Attempted to add a null task.
+2024-10-03 21:46:56 - WARN: Attempted to add a null task.
+2024-10-03 21:53:46 - WARN: Attempted to add a null task.
+2024-10-03 23:03:29 - WARN: Scheduler is full, cannot schedule task null
+2024-10-03 23:04:35 - WARN: Attempted to schedule task null. No servers are available.

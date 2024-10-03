@@ -1,0 +1,325 @@
+2024-10-03 19:07:16 - INFO: Environment variables loaded successfully.
+2024-10-03 19:07:16 - INFO: Environment variables loaded successfully.
+2024-10-03 19:07:16 - INFO: Server remoteServer1 started, listening to port 3000
+2024-10-03 19:07:16 - INFO: Server remoteServer1 stopped, freeing port 3000
+2024-10-03 19:07:16 - INFO: Environment variables loaded successfully.
+2024-10-03 19:07:16 - INFO: Server remoteServer1 started, listening to port 3000
+2024-10-03 19:07:16 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 19:07:16 - INFO: Server remoteServer1 stopped, freeing port 3000
+2024-10-03 19:07:16 - INFO: Environment variables loaded successfully.
+2024-10-03 19:07:16 - INFO: Server remoteServer1 started, listening to port 3000
+2024-10-03 19:07:16 - INFO: Server remoteServer1 stopped, freeing port 3000
+2024-10-03 19:07:16 - INFO: Environment variables loaded successfully.
+2024-10-03 19:07:16 - INFO: Server remoteServer1 started, listening to port 3000
+2024-10-03 19:07:16 - INFO: Environment variables loaded successfully.
+2024-10-03 19:07:16 - INFO: Server remoteServer1 stopped, freeing port 3000
+2024-10-03 19:07:16 - INFO: Environment variables loaded successfully.
+2024-10-03 19:07:16 - INFO: Server remoteServer1 started, listening to port 3000
+2024-10-03 19:07:16 - INFO: Server remoteServer1 stopped, freeing port 3000
+2024-10-03 19:07:16 - INFO: Added task null to server server1
+2024-10-03 19:07:17 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:17 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:17 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:18 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:18 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:19 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:20 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:20 - INFO: Added task null to server server1
+2024-10-03 19:07:20 - INFO: Added task null to server server1
+2024-10-03 19:07:20 - INFO: Added task null to server server1
+2024-10-03 19:07:20 - INFO: Added task null to server server1
+2024-10-03 19:07:20 - INFO: Added task null to server server1
+2024-10-03 19:07:20 - INFO: Added task null to server server1
+2024-10-03 19:07:20 - INFO: Added task null to server server1
+2024-10-03 19:07:20 - INFO: Added task null to server server1
+2024-10-03 19:07:20 - INFO: Added task null to server server1
+2024-10-03 19:07:20 - INFO: Added task null to server server1
+2024-10-03 19:07:20 - INFO: Added task null to server server1
+2024-10-03 19:07:20 - INFO: Added task null to server server1
+2024-10-03 19:07:20 - INFO: Task null executed successfully.
+2024-10-03 19:07:20 - INFO: Added task null to server server1
+2024-10-03 19:07:20 - INFO: Added task null to server server1
+2024-10-03 19:07:20 - INFO: Added task null to server server1
+2024-10-03 19:07:20 - INFO: Added task null to server server1
+2024-10-03 19:07:20 - INFO: Task null executed successfully.
+2024-10-03 19:07:20 - INFO: Task null executed successfully.
+2024-10-03 19:07:20 - INFO: Environment variables loaded successfully.
+2024-10-03 19:07:20 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:07:20 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 19:07:20 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:07:20 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 19:07:20 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:07:20 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 19:07:20 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:07:20 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 19:07:22 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:22 - INFO: Task null is a priority task, casting to no dependency dependent task.
+2024-10-03 19:07:22 - INFO: Scheduling task null with priority HIGH and 0 dependencies
+2024-10-03 19:07:22 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 19:07:24 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:25 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:28 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:28 - INFO: Task Mock server 1 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:07:28 - INFO: Scheduling task Mock server 1 with priority HIGH and 0 dependencies
+2024-10-03 19:07:29 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:31 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:32 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:34 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:35 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:37 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:38 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:39 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:40 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:41 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:42 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:43 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:45 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:46 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:47 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:49 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:50 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:51 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:52 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:53 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:54 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:56 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:57 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:07:58 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:08:00 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:08:02 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:32 - INFO: Environment variables loaded successfully.
+2024-10-03 19:09:32 - INFO: Environment variables loaded successfully.
+2024-10-03 19:09:32 - INFO: Server remoteServer1 started, listening to port 3000
+2024-10-03 19:09:32 - INFO: Server remoteServer1 stopped, freeing port 3000
+2024-10-03 19:09:32 - INFO: Environment variables loaded successfully.
+2024-10-03 19:09:32 - INFO: Server remoteServer1 started, listening to port 3000
+2024-10-03 19:09:32 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 19:09:32 - INFO: Server remoteServer1 stopped, freeing port 3000
+2024-10-03 19:09:32 - INFO: Environment variables loaded successfully.
+2024-10-03 19:09:32 - INFO: Server remoteServer1 started, listening to port 3000
+2024-10-03 19:09:32 - INFO: Server remoteServer1 stopped, freeing port 3000
+2024-10-03 19:09:32 - INFO: Environment variables loaded successfully.
+2024-10-03 19:09:32 - INFO: Server remoteServer1 started, listening to port 3000
+2024-10-03 19:09:32 - INFO: Environment variables loaded successfully.
+2024-10-03 19:09:32 - INFO: Server remoteServer1 stopped, freeing port 3000
+2024-10-03 19:09:32 - INFO: Environment variables loaded successfully.
+2024-10-03 19:09:32 - INFO: Server remoteServer1 started, listening to port 3000
+2024-10-03 19:09:32 - INFO: Server remoteServer1 stopped, freeing port 3000
+2024-10-03 19:09:33 - INFO: Added task null to server server1
+2024-10-03 19:09:33 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:34 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:34 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:34 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:35 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:35 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:37 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:37 - INFO: Added task null to server server1
+2024-10-03 19:09:37 - INFO: Added task null to server server1
+2024-10-03 19:09:37 - INFO: Added task null to server server1
+2024-10-03 19:09:37 - INFO: Added task null to server server1
+2024-10-03 19:09:37 - INFO: Added task null to server server1
+2024-10-03 19:09:37 - INFO: Added task null to server server1
+2024-10-03 19:09:37 - INFO: Added task null to server server1
+2024-10-03 19:09:37 - INFO: Added task null to server server1
+2024-10-03 19:09:37 - INFO: Added task null to server server1
+2024-10-03 19:09:37 - INFO: Added task null to server server1
+2024-10-03 19:09:37 - INFO: Added task null to server server1
+2024-10-03 19:09:37 - INFO: Added task null to server server1
+2024-10-03 19:09:37 - INFO: Task null executed successfully.
+2024-10-03 19:09:37 - INFO: Added task null to server server1
+2024-10-03 19:09:37 - INFO: Added task null to server server1
+2024-10-03 19:09:37 - INFO: Added task null to server server1
+2024-10-03 19:09:37 - INFO: Added task null to server server1
+2024-10-03 19:09:37 - INFO: Task null executed successfully.
+2024-10-03 19:09:37 - INFO: Task null executed successfully.
+2024-10-03 19:09:37 - INFO: Environment variables loaded successfully.
+2024-10-03 19:09:37 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:09:37 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 19:09:37 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:09:37 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 19:09:37 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:09:37 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 19:09:37 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:09:37 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 19:09:38 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:38 - INFO: Task null is a priority task, casting to no dependency dependent task.
+2024-10-03 19:09:38 - INFO: Scheduling task null with priority HIGH and 0 dependencies
+2024-10-03 19:09:38 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 19:09:40 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:41 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:44 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:44 - INFO: Task Mock server 1 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:09:44 - INFO: Scheduling task Mock server 1 with priority HIGH and 0 dependencies
+2024-10-03 19:09:45 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:46 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:48 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:49 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:51 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:52 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:53 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:55 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:56 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:09:58 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:00 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:01 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:02 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:03 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:04 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:06 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:07 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:08 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:10 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:11 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:12 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:14 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:15 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:17 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:18 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:20 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:21 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:23 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:24 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:26 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:27 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:28 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:30 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:31 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:32 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:34 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:36 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:37 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:38 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:40 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:41 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:43 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:44 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:45 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:47 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:48 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:50 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:52 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:54 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:55 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:56 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:57 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:10:58 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:00 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:02 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:03 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:05 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:06 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:07 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:08 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:10 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:11 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:12 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:14 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:15 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:16 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:17 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:18 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:20 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:21 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:22 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:24 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:11:25 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!
+2024-10-03 19:22:35 - INFO: Environment variables loaded successfully.
+2024-10-03 19:22:35 - INFO: Environment variables loaded successfully.
+2024-10-03 19:22:35 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:22:35 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 19:22:35 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:22:35 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 19:22:35 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:22:35 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 19:22:35 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:22:35 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 19:22:36 - INFO: Task null is a priority task, casting to no dependency dependent task.
+2024-10-03 19:22:36 - INFO: Scheduling task null with priority HIGH and 0 dependencies
+2024-10-03 19:22:36 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 19:22:38 - INFO: Task Mock server 1 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:22:38 - INFO: Scheduling task Mock server 1 with priority HIGH and 0 dependencies
+2024-10-03 19:25:46 - INFO: Environment variables loaded successfully.
+2024-10-03 19:25:46 - INFO: Environment variables loaded successfully.
+2024-10-03 19:25:46 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:25:46 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 19:25:46 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:25:46 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 19:25:46 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:25:46 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 19:25:46 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:25:46 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 19:25:46 - INFO: Task null is a priority task, casting to no dependency dependent task.
+2024-10-03 19:25:46 - INFO: Scheduling task null with priority HIGH and 0 dependencies
+2024-10-03 19:25:46 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 19:25:49 - INFO: Task Mock server 1 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:25:49 - INFO: Scheduling task Mock server 1 with priority HIGH and 0 dependencies
+2024-10-03 19:31:05 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:05 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:05 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:05 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:05 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:05 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:05 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:06 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:06 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:06 - INFO: Test info message
+2024-10-03 19:31:21 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:21 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:21 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:31:21 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 19:31:21 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:31:21 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 19:31:21 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:31:21 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 19:31:21 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:31:21 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 19:31:21 - INFO: Task null is a priority task, casting to no dependency dependent task.
+2024-10-03 19:31:21 - INFO: Scheduling task null with priority HIGH and 0 dependencies
+2024-10-03 19:31:21 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 19:31:23 - INFO: Task Mock server 1 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:31:23 - INFO: Scheduling task Mock server 1 with priority HIGH and 0 dependencies
+2024-10-03 19:31:44 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:44 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:46 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:46 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:49 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:49 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:54 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:54 - INFO: Environment variables loaded successfully.
+2024-10-03 19:31:54 - INFO: Task Mock server 1 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:31:54 - INFO: Scheduling task Mock server 1 with priority HIGH and 0 dependencies
+2024-10-03 19:32:08 - INFO: Environment variables loaded successfully.
+2024-10-03 19:32:08 - INFO: Environment variables loaded successfully.
+2024-10-03 19:32:08 - INFO: Added task PTask1 to server TestServer
+2024-10-03 19:32:08 - INFO: Added task PTask2 to server TestServer
+2024-10-03 19:32:08 - INFO: Added task PTask3 to server TestServer
+2024-10-03 19:32:08 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 19:32:08 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 19:32:08 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 19:32:10 - INFO: Environment variables loaded successfully.
+2024-10-03 19:32:10 - INFO: Environment variables loaded successfully.
+2024-10-03 19:32:10 - INFO: Added task PTask1 to server TestServer
+2024-10-03 19:32:10 - INFO: Added task PTask2 to server TestServer
+2024-10-03 19:32:10 - INFO: Added task PTask3 to server TestServer
+2024-10-03 19:32:10 - INFO: Added task PTask4 to server TestServer
+2024-10-03 19:32:11 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 19:32:11 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 19:32:11 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 19:32:11 - INFO: Executed tasks on server TestServer: 4 tasks completed.
+2024-10-03 19:32:13 - INFO: Environment variables loaded successfully.
+2024-10-03 19:32:13 - INFO: Environment variables loaded successfully.
+2024-10-03 19:32:15 - INFO: Environment variables loaded successfully.
+2024-10-03 19:32:15 - INFO: Environment variables loaded successfully.
+2024-10-03 19:35:37 - INFO: Environment variables loaded successfully.
+2024-10-03 19:35:37 - INFO: Added task null to server server1
+2024-10-03 19:35:37 - INFO: Added task null to server server1
+2024-10-03 19:35:37 - INFO: Task null executed successfully.
+2024-10-03 19:35:37 - INFO: Task null executed successfully.
+2024-10-03 19:35:58 - INFO: Environment variables loaded successfully.
+2024-10-03 19:35:58 - INFO: Environment variables loaded successfully.
+2024-10-03 19:35:58 - INFO: Task Mock server 1 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:35:58 - INFO: Scheduling task Mock server 1 with priority HIGH and 0 dependencies
+2024-10-03 19:38:19 - INFO: Environment variables loaded successfully.
+2024-10-03 19:38:19 - INFO: Environment variables loaded successfully.
+2024-10-03 19:38:19 - INFO: Task Mock server 1 is a priority task, casting to no dependency dependent task.
+2024-10-03 19:38:19 - INFO: Scheduling task Mock server 1 with priority HIGH and 0 dependencies

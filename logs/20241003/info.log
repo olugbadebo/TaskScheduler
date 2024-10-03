@@ -1,0 +1,1229 @@
+2024-10-03 00:02:47 - INFO: Task mockPriorityTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 00:02:47 - INFO: Scheduling task mockPriorityTask1 with priority HIGH and 0 dependencies
+2024-10-03 00:02:47 - INFO: Task mockPriorityTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 00:02:47 - INFO: Scheduling task mockPriorityTask2 with priority LOW and 0 dependencies
+2024-10-03 00:02:47 - INFO: Added task mockPriorityTask1 to server null
+2024-10-03 00:02:47 - INFO: Added task mockPriorityTask2 to server null
+2024-10-03 00:12:35 - INFO: Task null is a priority task, casting to no dependency dependent task.
+2024-10-03 00:12:35 - INFO: Scheduling task null with priority HIGH and 0 dependencies
+2024-10-03 00:14:15 - INFO: Executed tasks on server null: 1 tasks completed.
+2024-10-03 00:14:15 - INFO: Task null succeeded on attempt 1
+2024-10-03 00:14:15 - INFO: Task Mock server 1 is a priority task, casting to no dependency dependent task.
+2024-10-03 00:14:15 - INFO: Scheduling task Mock server 1 with priority HIGH and 0 dependencies
+2024-10-03 00:14:49 - INFO: Task null is a priority task, casting to no dependency dependent task.
+2024-10-03 00:14:49 - INFO: Scheduling task null with priority HIGH and 0 dependencies
+2024-10-03 00:14:49 - INFO: Task Mock server 1 is a priority task, casting to no dependency dependent task.
+2024-10-03 00:14:49 - INFO: Scheduling task Mock server 1 with priority HIGH and 0 dependencies
+2024-10-03 00:32:43 - INFO: Added task null to server MockServer1
+2024-10-03 00:34:27 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 00:34:41 - INFO: Executed tasks on server MockServer1: 1 tasks completed.
+2024-10-03 00:34:44 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 00:35:11 - INFO: Executed tasks on server MockServer1: 1 tasks completed.
+2024-10-03 00:35:23 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 00:44:09 - INFO: Executed tasks on server MockServer1: 1 tasks completed.
+2024-10-03 00:44:15 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 00:44:31 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 00:49:07 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 00:50:28 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 00:50:35 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 00:54:07 - INFO: Added task null to server MockServer1
+2024-10-03 00:55:21 - INFO: Added task null to server MockServer1
+2024-10-03 00:56:49 - INFO: Added task null to server MockServer1
+2024-10-03 00:57:24 - INFO: Added task null to server MockServer1
+2024-10-03 00:57:37 - INFO: Added task null to server MockServer1
+2024-10-03 01:00:32 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 01:01:00 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 01:02:03 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 01:05:42 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:05:42 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:06:42 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:06:42 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:08:09 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:08:09 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:12:50 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:12:50 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:13:47 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:13:47 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:13:50 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:13:50 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:14:02 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:14:02 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:14:49 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:14:56 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:16:36 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:16:36 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:16:37 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:16:37 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:18:48 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:18:48 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:18:48 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:18:48 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:21:29 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:21:29 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:21:30 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:21:30 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:22:03 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:22:03 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:22:03 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:22:03 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:22:39 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:22:39 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:22:39 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:22:39 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:38:30 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:38:30 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:38:30 - INFO: Added task PTask3 to server TestServer
+2024-10-03 01:38:30 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:38:30 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:38:30 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 01:38:58 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:38:58 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:38:58 - INFO: Added task PTask3 to server TestServer
+2024-10-03 01:40:59 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:40:59 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:41:00 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 01:41:03 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:41:03 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:41:03 - INFO: Added task PTask3 to server TestServer
+2024-10-03 01:41:16 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:41:16 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:41:16 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 01:42:22 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:42:22 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:42:22 - INFO: Added task PTask3 to server TestServer
+2024-10-03 01:42:48 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:42:49 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:42:49 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 01:43:07 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:43:07 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:43:07 - INFO: Added task PTask3 to server TestServer
+2024-10-03 01:43:07 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:43:14 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:43:16 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 01:45:04 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:45:04 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:45:04 - INFO: Added task PTask3 to server TestServer
+2024-10-03 01:45:07 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:45:10 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:45:10 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 01:46:29 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:46:29 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:46:29 - INFO: Added task PTask3 to server TestServer
+2024-10-03 01:46:29 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:46:29 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:46:29 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 01:49:20 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:49:20 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:49:20 - INFO: Added task PTask3 to server TestServer
+2024-10-03 01:50:18 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:50:18 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:50:18 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 01:57:32 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:57:32 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:57:32 - INFO: Added task PTask3 to server TestServer
+2024-10-03 01:57:35 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:57:35 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:57:35 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 01:57:47 - INFO: Added task PTask1 to server TestServer
+2024-10-03 01:57:47 - INFO: Added task PTask2 to server TestServer
+2024-10-03 01:57:47 - INFO: Added task PTask3 to server TestServer
+2024-10-03 01:57:51 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 01:57:51 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 01:57:52 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 02:00:32 - INFO: Added task PTask1 to server TestServer
+2024-10-03 02:00:32 - INFO: Added task PTask2 to server TestServer
+2024-10-03 02:00:32 - INFO: Added task PTask3 to server TestServer
+2024-10-03 02:00:32 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 02:00:32 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 02:00:33 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 02:02:54 - INFO: Added task PTask1 to server TestServer
+2024-10-03 02:02:54 - INFO: Added task PTask2 to server TestServer
+2024-10-03 02:02:54 - INFO: Added task PTask3 to server TestServer
+2024-10-03 02:02:54 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 02:02:54 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 02:02:55 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 02:09:27 - INFO: Task null is a priority task, casting to no dependency dependent task.
+2024-10-03 02:09:27 - INFO: Scheduling task null with priority HIGH and 0 dependencies
+2024-10-03 02:09:27 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 02:09:28 - INFO: Task Mock server 1 is a priority task, casting to no dependency dependent task.
+2024-10-03 02:09:28 - INFO: Scheduling task Mock server 1 with priority HIGH and 0 dependencies
+2024-10-03 02:09:28 - INFO: Added task PTask1 to server TestServer
+2024-10-03 02:09:28 - INFO: Added task PTask2 to server TestServer
+2024-10-03 02:09:28 - INFO: Added task PTask3 to server TestServer
+2024-10-03 02:09:29 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 02:09:29 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 02:09:29 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 02:10:00 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Task null executed successfully.
+2024-10-03 02:10:01 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Added task null to server server1
+2024-10-03 02:10:01 - INFO: Task null executed successfully.
+2024-10-03 02:10:01 - INFO: Task null executed successfully.
+2024-10-03 02:10:09 - INFO: Task null is a priority task, casting to no dependency dependent task.
+2024-10-03 02:10:09 - INFO: Scheduling task null with priority HIGH and 0 dependencies
+2024-10-03 02:10:09 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 02:10:09 - INFO: Executed tasks on server MockServer1: 1 tasks completed.
+2024-10-03 02:10:10 - INFO: Task Mock server 1 is a priority task, casting to no dependency dependent task.
+2024-10-03 02:10:10 - INFO: Scheduling task Mock server 1 with priority HIGH and 0 dependencies
+2024-10-03 02:10:10 - INFO: Added task PTask1 to server TestServer
+2024-10-03 02:10:10 - INFO: Added task PTask2 to server TestServer
+2024-10-03 02:10:10 - INFO: Added task PTask3 to server TestServer
+2024-10-03 02:10:10 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 02:10:10 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 02:10:10 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 02:11:53 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 02:13:10 - INFO: Task null is a priority task, casting to no dependency dependent task.
+2024-10-03 02:13:10 - INFO: Scheduling task null with priority HIGH and 0 dependencies
+2024-10-03 02:13:10 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 02:13:12 - INFO: Task Mock server 1 is a priority task, casting to no dependency dependent task.
+2024-10-03 02:13:12 - INFO: Scheduling task Mock server 1 with priority HIGH and 0 dependencies
+2024-10-03 02:13:12 - INFO: Added task PTask1 to server TestServer
+2024-10-03 02:13:12 - INFO: Added task PTask2 to server TestServer
+2024-10-03 02:13:12 - INFO: Added task PTask3 to server TestServer
+2024-10-03 02:13:12 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 02:13:12 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 02:13:12 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 02:22:14 - INFO: Added task PTask1 to server TestServer
+2024-10-03 02:22:14 - INFO: Added task PTask2 to server TestServer
+2024-10-03 02:22:14 - INFO: Added task PTask3 to server TestServer
+2024-10-03 02:22:14 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 02:22:15 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 02:22:15 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 02:22:37 - INFO: Added task PTask1 to server TestServer
+2024-10-03 02:22:37 - INFO: Added task PTask2 to server TestServer
+2024-10-03 02:22:37 - INFO: Added task PTask3 to server TestServer
+2024-10-03 02:22:37 - INFO: Added task PTask4 to server TestServer
+2024-10-03 02:22:37 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 02:22:37 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 02:33:18 - INFO: Added task PTask1 to server TestServer
+2024-10-03 02:33:18 - INFO: Added task PTask2 to server TestServer
+2024-10-03 02:33:18 - INFO: Added task PTask3 to server TestServer
+2024-10-03 02:33:18 - INFO: Added task PTask4 to server TestServer
+2024-10-03 02:33:18 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 02:33:18 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 02:33:19 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 02:33:19 - INFO: Executed tasks on server TestServer: 4 tasks completed.
+2024-10-03 02:33:45 - INFO: Added task PTask1 to server TestServer
+2024-10-03 02:33:45 - INFO: Added task PTask2 to server TestServer
+2024-10-03 02:33:45 - INFO: Added task PTask3 to server TestServer
+2024-10-03 02:33:45 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 02:33:45 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 02:33:45 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 02:52:51 - INFO: Added task PTask1 to server TestServer
+2024-10-03 02:52:51 - INFO: Added task PTask2 to server TestServer
+2024-10-03 02:52:51 - INFO: Added task PTask3 to server TestServer
+2024-10-03 02:52:51 - INFO: Added task PTask4 to server TestServer
+2024-10-03 02:52:51 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 02:52:51 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 02:53:25 - INFO: Added task PTask1 to server TestServer
+2024-10-03 02:53:25 - INFO: Added task PTask2 to server TestServer
+2024-10-03 02:53:25 - INFO: Added task PTask3 to server TestServer
+2024-10-03 02:53:25 - INFO: Added task PTask4 to server TestServer
+2024-10-03 02:54:00 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 02:54:00 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 02:54:08 - INFO: Added task PTask1 to server TestServer
+2024-10-03 02:54:08 - INFO: Added task PTask2 to server TestServer
+2024-10-03 02:54:08 - INFO: Added task PTask3 to server TestServer
+2024-10-03 02:54:08 - INFO: Added task PTask4 to server TestServer
+2024-10-03 02:55:17 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 02:55:17 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 02:55:42 - INFO: Added task PTask1 to server TestServer
+2024-10-03 02:55:42 - INFO: Added task PTask2 to server TestServer
+2024-10-03 02:55:42 - INFO: Added task PTask3 to server TestServer
+2024-10-03 02:55:42 - INFO: Added task PTask4 to server TestServer
+2024-10-03 02:56:35 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 02:56:35 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 02:56:35 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 02:56:35 - INFO: Executed tasks on server TestServer: 4 tasks completed.
+2024-10-03 03:00:29 - INFO: Added task PTask1 to server TestServer
+2024-10-03 03:00:29 - INFO: Added task PTask2 to server TestServer
+2024-10-03 03:00:29 - INFO: Added task PTask3 to server TestServer
+2024-10-03 03:00:29 - INFO: Added task PTask4 to server TestServer
+2024-10-03 03:01:12 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 03:01:12 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 03:01:13 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 03:01:13 - INFO: Executed tasks on server TestServer: 4 tasks completed.
+2024-10-03 03:03:29 - INFO: Added task PTask1 to server TestServer
+2024-10-03 03:03:29 - INFO: Added task PTask2 to server TestServer
+2024-10-03 03:03:29 - INFO: Added task PTask3 to server TestServer
+2024-10-03 03:03:29 - INFO: Added task PTask4 to server TestServer
+2024-10-03 03:05:14 - INFO: Added task PTask1 to server TestServer
+2024-10-03 03:05:14 - INFO: Added task PTask2 to server TestServer
+2024-10-03 03:05:14 - INFO: Added task PTask3 to server TestServer
+2024-10-03 03:05:14 - INFO: Added task PTask4 to server TestServer
+2024-10-03 03:06:39 - INFO: Added task PTask1 to server TestServer
+2024-10-03 03:06:39 - INFO: Added task PTask2 to server TestServer
+2024-10-03 03:06:39 - INFO: Added task PTask3 to server TestServer
+2024-10-03 03:06:39 - INFO: Added task PTask4 to server TestServer
+2024-10-03 03:07:04 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 03:07:07 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 03:07:08 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 03:07:09 - INFO: Executed tasks on server TestServer: 4 tasks completed.
+2024-10-03 03:07:38 - INFO: Added task PTask1 to server TestServer
+2024-10-03 03:07:38 - INFO: Added task PTask2 to server TestServer
+2024-10-03 03:07:38 - INFO: Added task PTask3 to server TestServer
+2024-10-03 03:07:38 - INFO: Added task PTask4 to server TestServer
+2024-10-03 03:07:43 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 03:07:43 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 03:07:43 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 03:07:43 - INFO: Executed tasks on server TestServer: 4 tasks completed.
+2024-10-03 03:08:45 - INFO: Added task PTask1 to server TestServer
+2024-10-03 03:08:45 - INFO: Added task PTask2 to server TestServer
+2024-10-03 03:08:45 - INFO: Added task PTask3 to server TestServer
+2024-10-03 03:08:45 - INFO: Added task PTask4 to server TestServer
+2024-10-03 03:08:45 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 03:08:46 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 03:08:46 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 03:08:46 - INFO: Executed tasks on server TestServer: 4 tasks completed.
+2024-10-03 03:08:58 - INFO: Added task PTask1 to server TestServer
+2024-10-03 03:08:58 - INFO: Added task PTask2 to server TestServer
+2024-10-03 03:08:58 - INFO: Added task PTask3 to server TestServer
+2024-10-03 03:08:58 - INFO: Added task PTask4 to server TestServer
+2024-10-03 03:08:58 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 03:08:58 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 03:08:58 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 03:08:58 - INFO: Executed tasks on server TestServer: 4 tasks completed.
+2024-10-03 03:12:01 - INFO: Added task PTask1 to server TestServer
+2024-10-03 03:12:01 - INFO: Added task PTask2 to server TestServer
+2024-10-03 03:12:01 - INFO: Added task PTask3 to server TestServer
+2024-10-03 03:12:01 - INFO: Added task PTask4 to server TestServer
+2024-10-03 03:12:01 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 03:12:01 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 03:12:02 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 03:12:02 - INFO: Executed tasks on server TestServer: 4 tasks completed.
+2024-10-03 03:12:23 - INFO: Added task PTask1 to server TestServer
+2024-10-03 03:12:23 - INFO: Added task PTask2 to server TestServer
+2024-10-03 03:12:23 - INFO: Added task PTask3 to server TestServer
+2024-10-03 03:12:23 - INFO: Added task PTask4 to server TestServer
+2024-10-03 03:12:23 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 03:12:24 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 03:12:24 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 03:12:24 - INFO: Executed tasks on server TestServer: 4 tasks completed.
+2024-10-03 03:14:28 - INFO: Added task PTask1 to server TestServer
+2024-10-03 03:14:28 - INFO: Added task PTask2 to server TestServer
+2024-10-03 03:14:28 - INFO: Added task PTask3 to server TestServer
+2024-10-03 03:14:28 - INFO: Added task PTask4 to server TestServer
+2024-10-03 03:14:28 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 03:14:28 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 03:14:28 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 03:14:29 - INFO: Executed tasks on server TestServer: 4 tasks completed.
+2024-10-03 12:31:36 - INFO: Task null is a priority task, casting to no dependency dependent task.
+2024-10-03 12:31:36 - INFO: Scheduling task null with priority HIGH and 0 dependencies
+2024-10-03 12:36:22 - INFO: Environment variables loaded successfully.
+2024-10-03 12:36:30 - INFO: Environment variables loaded successfully.
+2024-10-03 12:38:00 - INFO: Environment variables loaded successfully.
+2024-10-03 12:38:05 - INFO: Environment variables loaded successfully.
+2024-10-03 12:39:17 - INFO: Environment variables loaded successfully.
+2024-10-03 12:39:22 - INFO: Environment variables loaded successfully.
+2024-10-03 12:39:49 - INFO: Environment variables loaded successfully.
+2024-10-03 12:44:10 - INFO: Environment variables loaded successfully.
+2024-10-03 12:46:13 - INFO: Environment variables loaded successfully.
+2024-10-03 12:46:22 - INFO: Environment variables loaded successfully.
+2024-10-03 12:46:30 - INFO: Environment variables loaded successfully.
+2024-10-03 12:46:31 - INFO: Environment variables loaded successfully.
+2024-10-03 12:47:14 - INFO: Environment variables loaded successfully.
+2024-10-03 12:47:15 - INFO: Environment variables loaded successfully.
+2024-10-03 12:47:15 - INFO: Environment variables loaded successfully.
+2024-10-03 12:47:15 - INFO: Environment variables loaded successfully.
+2024-10-03 12:47:15 - INFO: Environment variables loaded successfully.
+2024-10-03 12:47:15 - INFO: Environment variables loaded successfully.
+2024-10-03 12:47:46 - INFO: Environment variables loaded successfully.
+2024-10-03 12:47:46 - INFO: Environment variables loaded successfully.
+2024-10-03 12:47:46 - INFO: Test info message
+2024-10-03 12:48:17 - INFO: Environment variables loaded successfully.
+2024-10-03 12:48:42 - INFO: Environment variables loaded successfully.
+2024-10-03 12:48:52 - INFO: Test info message
+2024-10-03 12:50:13 - INFO: Environment variables loaded successfully.
+2024-10-03 12:50:14 - INFO: Environment variables loaded successfully.
+2024-10-03 12:50:14 - INFO: Environment variables loaded successfully.
+2024-10-03 12:50:14 - INFO: Environment variables loaded successfully.
+2024-10-03 12:50:14 - INFO: Environment variables loaded successfully.
+2024-10-03 12:50:14 - INFO: Environment variables loaded successfully.
+2024-10-03 12:50:45 - INFO: Environment variables loaded successfully.
+2024-10-03 12:50:45 - INFO: Environment variables loaded successfully.
+2024-10-03 12:50:45 - INFO: Test info message
+2024-10-03 12:51:17 - INFO: Environment variables loaded successfully.
+2024-10-03 12:51:24 - INFO: Test info message
+2024-10-03 12:51:35 - INFO: Environment variables loaded successfully.
+2024-10-03 12:52:04 - INFO: Test info message
+2024-10-03 12:52:47 - INFO: Environment variables loaded successfully.
+2024-10-03 12:53:07 - INFO: Test info message
+2024-10-03 12:56:28 - INFO: Environment variables loaded successfully.
+2024-10-03 12:56:32 - INFO: Test info message
+2024-10-03 12:57:08 - INFO: Environment variables loaded successfully.
+2024-10-03 12:57:11 - INFO: Test info message
+2024-10-03 12:57:28 - INFO: Environment variables loaded successfully.
+2024-10-03 12:57:31 - INFO: Test info message
+2024-10-03 12:58:00 - INFO: Environment variables loaded successfully.
+2024-10-03 12:58:02 - INFO: Test info message
+2024-10-03 12:59:19 - INFO: Environment variables loaded successfully.
+2024-10-03 12:59:25 - INFO: Test info message
+2024-10-03 12:59:44 - INFO: Environment variables loaded successfully.
+2024-10-03 12:59:45 - INFO: Environment variables loaded successfully.
+2024-10-03 12:59:46 - INFO: Environment variables loaded successfully.
+2024-10-03 12:59:46 - INFO: Environment variables loaded successfully.
+2024-10-03 12:59:46 - INFO: Environment variables loaded successfully.
+2024-10-03 12:59:46 - INFO: Environment variables loaded successfully.
+2024-10-03 13:00:16 - INFO: Environment variables loaded successfully.
+2024-10-03 13:00:16 - INFO: Environment variables loaded successfully.
+2024-10-03 13:00:16 - INFO: Test info message
+2024-10-03 13:03:58 - INFO: Environment variables loaded successfully.
+2024-10-03 13:03:59 - INFO: Environment variables loaded successfully.
+2024-10-03 13:03:59 - INFO: Environment variables loaded successfully.
+2024-10-03 13:03:59 - INFO: Environment variables loaded successfully.
+2024-10-03 13:03:59 - INFO: Environment variables loaded successfully.
+2024-10-03 13:04:30 - INFO: Environment variables loaded successfully.
+2024-10-03 13:04:30 - INFO: Environment variables loaded successfully.
+2024-10-03 13:04:30 - INFO: Test info message
+2024-10-03 13:07:37 - INFO: Environment variables loaded successfully.
+2024-10-03 13:07:38 - INFO: Environment variables loaded successfully.
+2024-10-03 13:07:38 - INFO: Environment variables loaded successfully.
+2024-10-03 13:07:38 - INFO: Environment variables loaded successfully.
+2024-10-03 13:07:38 - INFO: Environment variables loaded successfully.
+2024-10-03 13:07:38 - INFO: Environment variables loaded successfully.
+2024-10-03 13:07:38 - INFO: Environment variables loaded successfully.
+2024-10-03 13:08:09 - INFO: Environment variables loaded successfully.
+2024-10-03 13:08:09 - INFO: Environment variables loaded successfully.
+2024-10-03 13:08:09 - INFO: Test info message
+2024-10-03 13:09:42 - INFO: Environment variables loaded successfully.
+2024-10-03 13:09:43 - INFO: Environment variables loaded successfully.
+2024-10-03 13:09:52 - INFO: Environment variables loaded successfully.
+2024-10-03 13:09:55 - INFO: Environment variables loaded successfully.
+2024-10-03 13:13:30 - INFO: Environment variables loaded successfully.
+2024-10-03 13:13:37 - INFO: Environment variables loaded successfully.
+2024-10-03 13:14:12 - INFO: Email sent successfully to hellopixelsandkolors@gmail.com!
+2024-10-03 13:14:54 - INFO: Environment variables loaded successfully.
+2024-10-03 13:14:55 - INFO: Environment variables loaded successfully.
+2024-10-03 13:16:49 - INFO: Email sent successfully to hellopixelsandkolors@gmail.com!
+2024-10-03 14:45:07 - INFO: Environment variables loaded successfully.
+2024-10-03 14:45:16 - INFO: Environment variables loaded successfully.
+2024-10-03 14:51:37 - INFO: Environment variables loaded successfully.
+2024-10-03 14:53:49 - INFO: Environment variables loaded successfully.
+2024-10-03 14:53:59 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:04:12 - INFO: Environment variables loaded successfully.
+2024-10-03 15:04:12 - INFO: Environment variables loaded successfully.
+2024-10-03 15:04:12 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:04:12 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:04:12 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:04:12 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:05:33 - INFO: Environment variables loaded successfully.
+2024-10-03 15:05:33 - INFO: Environment variables loaded successfully.
+2024-10-03 15:05:33 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:05:33 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:06:30 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:06:33 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:07:02 - INFO: Environment variables loaded successfully.
+2024-10-03 15:07:02 - INFO: Environment variables loaded successfully.
+2024-10-03 15:07:02 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:07:02 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:07:24 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:07:25 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:10:27 - INFO: Environment variables loaded successfully.
+2024-10-03 15:10:27 - INFO: Environment variables loaded successfully.
+2024-10-03 15:10:27 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:10:27 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:12:23 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:12:24 - INFO: Environment variables loaded successfully.
+2024-10-03 15:12:24 - INFO: Environment variables loaded successfully.
+2024-10-03 15:12:24 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:12:24 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:12:45 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:12:45 - INFO: Added task dTask2 to server remoteServer2
+2024-10-03 15:12:46 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:30:17 - INFO: Environment variables loaded successfully.
+2024-10-03 15:30:17 - INFO: Environment variables loaded successfully.
+2024-10-03 15:30:17 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:30:17 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:30:17 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:30:17 - INFO: Added task dTask2 to server remoteServer2
+2024-10-03 15:30:18 - INFO: Task dTask1 executed successfully.
+2024-10-03 15:30:19 - INFO: Task dTask2 executed successfully.
+2024-10-03 15:30:19 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:30:19 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:30:19 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:30:19 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:30:19 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:30:19 - INFO: Added task dTask2 to server remoteServer2
+2024-10-03 15:30:19 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:30:19 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:30:19 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:30:19 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:30:19 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:30:19 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:32:53 - INFO: Environment variables loaded successfully.
+2024-10-03 15:32:53 - INFO: Environment variables loaded successfully.
+2024-10-03 15:32:53 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:32:53 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:32:53 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:32:53 - INFO: Added task dTask2 to server remoteServer2
+2024-10-03 15:32:53 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:32:53 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:32:53 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:32:53 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:32:53 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:32:53 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:35:34 - INFO: Environment variables loaded successfully.
+2024-10-03 15:35:34 - INFO: Environment variables loaded successfully.
+2024-10-03 15:35:34 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:35:34 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:35:34 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:35:34 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:35:34 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:35:34 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:35:34 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:35:34 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:35:34 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:35:59 - INFO: Environment variables loaded successfully.
+2024-10-03 15:35:59 - INFO: Environment variables loaded successfully.
+2024-10-03 15:35:59 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:35:59 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:35:59 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:35:59 - INFO: Added task dTask2 to server remoteServer2
+2024-10-03 15:36:00 - INFO: Task dTask1 executed successfully.
+2024-10-03 15:36:01 - INFO: Task dTask2 executed successfully.
+2024-10-03 15:36:01 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:36:01 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:36:01 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:36:01 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:36:01 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:36:01 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:36:01 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:36:01 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:36:01 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:36:01 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:36:20 - INFO: Environment variables loaded successfully.
+2024-10-03 15:36:20 - INFO: Environment variables loaded successfully.
+2024-10-03 15:36:20 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:36:20 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:36:20 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:36:20 - INFO: Added task dTask2 to server remoteServer2
+2024-10-03 15:36:21 - INFO: Task dTask1 executed successfully.
+2024-10-03 15:36:22 - INFO: Task dTask2 executed successfully.
+2024-10-03 15:36:22 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:36:22 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:36:22 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:36:22 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:36:22 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:36:22 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:36:22 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:36:22 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:36:22 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:36:22 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:37:17 - INFO: Environment variables loaded successfully.
+2024-10-03 15:37:17 - INFO: Environment variables loaded successfully.
+2024-10-03 15:37:17 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:37:17 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:37:17 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:37:17 - INFO: Added task dTask2 to server remoteServer2
+2024-10-03 15:37:19 - INFO: Task dTask1 executed successfully.
+2024-10-03 15:37:20 - INFO: Task dTask2 executed successfully.
+2024-10-03 15:37:20 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:37:20 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:37:20 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:37:20 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:37:20 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:37:20 - INFO: Added task dTask2 to server remoteServer2
+2024-10-03 15:37:20 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:37:20 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:37:20 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:37:20 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:37:20 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:37:20 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:37:49 - INFO: Environment variables loaded successfully.
+2024-10-03 15:37:49 - INFO: Environment variables loaded successfully.
+2024-10-03 15:37:49 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:37:49 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:37:49 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:37:49 - INFO: Added task dTask2 to server remoteServer2
+2024-10-03 15:37:50 - INFO: Task dTask1 executed successfully.
+2024-10-03 15:37:51 - INFO: Task dTask2 executed successfully.
+2024-10-03 15:37:51 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:37:51 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:37:51 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:37:51 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:37:51 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:37:51 - INFO: Added task dTask2 to server remoteServer2
+2024-10-03 15:37:51 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:37:51 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:41:08 - INFO: Environment variables loaded successfully.
+2024-10-03 15:41:08 - INFO: Environment variables loaded successfully.
+2024-10-03 15:41:08 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:41:08 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:41:08 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:41:08 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:41:22 - INFO: Environment variables loaded successfully.
+2024-10-03 15:41:22 - INFO: Environment variables loaded successfully.
+2024-10-03 15:41:22 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:41:22 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:41:22 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:41:22 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:41:22 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:41:22 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:41:22 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:41:22 - INFO: Added task dTask2 to server remoteServer2
+2024-10-03 15:41:23 - INFO: Task dTask1 executed successfully.
+2024-10-03 15:41:24 - INFO: Task dTask2 executed successfully.
+2024-10-03 15:41:24 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:41:24 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:41:24 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:41:24 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:41:24 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:41:24 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:41:24 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:41:24 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:41:24 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:41:24 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:41:24 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:41:24 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:41:24 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:41:24 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:41:24 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:41:24 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:41:24 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 15:41:24 - INFO: Added task dTask2 to server remoteServer2
+2024-10-03 15:41:24 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:41:24 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:43:11 - INFO: Environment variables loaded successfully.
+2024-10-03 15:43:11 - INFO: Environment variables loaded successfully.
+2024-10-03 15:43:12 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:43:12 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:43:12 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:43:12 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:44:11 - INFO: Environment variables loaded successfully.
+2024-10-03 15:44:11 - INFO: Environment variables loaded successfully.
+2024-10-03 15:44:11 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:44:11 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:44:11 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:44:11 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:44:20 - INFO: Environment variables loaded successfully.
+2024-10-03 15:44:20 - INFO: Environment variables loaded successfully.
+2024-10-03 15:44:20 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:44:20 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:44:20 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:44:20 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:44:31 - INFO: Environment variables loaded successfully.
+2024-10-03 15:44:31 - INFO: Environment variables loaded successfully.
+2024-10-03 15:44:31 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:44:31 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:44:31 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:44:31 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 15:45:20 - INFO: Environment variables loaded successfully.
+2024-10-03 15:45:20 - INFO: Environment variables loaded successfully.
+2024-10-03 15:45:20 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 15:45:20 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 15:45:20 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 15:45:20 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 16:53:39 - INFO: Environment variables loaded successfully.
+2024-10-03 16:53:39 - INFO: Environment variables loaded successfully.
+2024-10-03 16:53:39 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 16:53:39 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 16:53:39 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 16:53:39 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 16:53:39 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 16:53:39 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 16:53:39 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 16:53:39 - INFO: Added task dTask2 to server remoteServer2
+2024-10-03 16:53:40 - INFO: Task dTask1 executed successfully.
+2024-10-03 16:53:41 - INFO: Task dTask2 executed successfully.
+2024-10-03 16:53:41 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 16:53:41 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 16:53:41 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 16:53:41 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 16:53:41 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 16:53:41 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 16:53:41 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 16:53:41 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 16:53:41 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 16:53:41 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 16:53:41 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 16:53:41 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 16:53:41 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 16:53:41 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 16:53:41 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 16:53:41 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 16:53:41 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 16:53:41 - INFO: Added task dTask2 to server remoteServer2
+2024-10-03 16:53:41 - INFO: Remote server remoteServer1 stopped.
+2024-10-03 16:53:41 - INFO: Remote server remoteServer2 stopped.
+2024-10-03 19:58:45 - INFO: Environment variables loaded successfully.
+2024-10-03 19:58:45 - INFO: Environment variables loaded successfully.
+2024-10-03 19:58:45 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 19:58:45 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 19:58:45 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 19:58:45 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 19:58:45 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 20:00:02 - INFO: Environment variables loaded successfully.
+2024-10-03 20:00:02 - INFO: Environment variables loaded successfully.
+2024-10-03 20:00:02 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:00:02 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:00:02 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:00:02 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:00:22 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 20:00:47 - INFO: Environment variables loaded successfully.
+2024-10-03 20:00:47 - INFO: Environment variables loaded successfully.
+2024-10-03 20:00:47 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:00:47 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:00:47 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:00:47 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:00:54 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 20:02:38 - INFO: Environment variables loaded successfully.
+2024-10-03 20:02:38 - INFO: Environment variables loaded successfully.
+2024-10-03 20:02:38 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:02:38 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:02:38 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:02:38 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:03:01 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 20:04:05 - INFO: Environment variables loaded successfully.
+2024-10-03 20:04:05 - INFO: Environment variables loaded successfully.
+2024-10-03 20:04:05 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:04:05 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:04:05 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:04:05 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:04:10 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 20:06:38 - INFO: Environment variables loaded successfully.
+2024-10-03 20:06:38 - INFO: Environment variables loaded successfully.
+2024-10-03 20:06:38 - INFO: Remote server r1 started on port: 3000
+2024-10-03 20:06:38 - INFO: Starting remote server r1 on port 3000
+2024-10-03 20:06:38 - INFO: Added task dT1 to server r1
+2024-10-03 20:06:46 - INFO: Environment variables loaded successfully.
+2024-10-03 20:06:46 - INFO: Environment variables loaded successfully.
+2024-10-03 20:06:46 - INFO: Remote server r1 started on port: 3000
+2024-10-03 20:06:46 - INFO: Starting remote server r1 on port 3000
+2024-10-03 20:06:50 - INFO: Added task dT1 to server r1
+2024-10-03 20:07:00 - INFO: Environment variables loaded successfully.
+2024-10-03 20:07:00 - INFO: Environment variables loaded successfully.
+2024-10-03 20:07:00 - INFO: Starting remote server r1 on port 3000
+2024-10-03 20:07:00 - INFO: Remote server r1 started on port: 3000
+2024-10-03 20:07:22 - INFO: Added task dT1 to server r1
+2024-10-03 20:08:45 - INFO: Environment variables loaded successfully.
+2024-10-03 20:08:45 - INFO: Environment variables loaded successfully.
+2024-10-03 20:08:45 - INFO: Remote server r1 started on port: 3000
+2024-10-03 20:08:45 - INFO: Starting remote server r1 on port 3000
+2024-10-03 20:08:48 - INFO: Added task dT1 to server r1
+2024-10-03 20:11:20 - INFO: Environment variables loaded successfully.
+2024-10-03 20:11:20 - INFO: Environment variables loaded successfully.
+2024-10-03 20:11:20 - INFO: Remote server r1 started on port: 3000
+2024-10-03 20:11:20 - INFO: Starting remote server r1 on port 3000
+2024-10-03 20:11:20 - INFO: Added task dT1 to server r1
+2024-10-03 20:11:42 - INFO: Environment variables loaded successfully.
+2024-10-03 20:11:42 - INFO: Environment variables loaded successfully.
+2024-10-03 20:11:42 - INFO: Remote server r1 started on port: 3000
+2024-10-03 20:11:42 - INFO: Starting remote server r1 on port 3000
+2024-10-03 20:11:42 - INFO: Added task dT1 to server r1
+2024-10-03 20:13:12 - INFO: Environment variables loaded successfully.
+2024-10-03 20:13:12 - INFO: Environment variables loaded successfully.
+2024-10-03 20:13:12 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:13:12 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:13:12 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:13:12 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:13:12 - INFO: Added task dTask1 to server r1
+2024-10-03 20:13:39 - INFO: Environment variables loaded successfully.
+2024-10-03 20:13:39 - INFO: Environment variables loaded successfully.
+2024-10-03 20:13:39 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:13:39 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:13:39 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:13:39 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:13:39 - INFO: Added task dTask1 to server r1
+2024-10-03 20:16:08 - INFO: Environment variables loaded successfully.
+2024-10-03 20:16:08 - INFO: Environment variables loaded successfully.
+2024-10-03 20:16:08 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:16:08 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:16:08 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:16:08 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:16:08 - INFO: Added task dT1 to server r1
+2024-10-03 20:17:16 - INFO: Added task dT1 to server r1
+2024-10-03 20:18:32 - INFO: Environment variables loaded successfully.
+2024-10-03 20:18:32 - INFO: Environment variables loaded successfully.
+2024-10-03 20:18:32 - INFO: Remote server remoteServerTest1 started on port: 3000
+2024-10-03 20:18:32 - INFO: Starting remote server remoteServerTest1 on port 3000
+2024-10-03 20:18:32 - INFO: Added task dT1 to server r1
+2024-10-03 20:18:49 - INFO: Environment variables loaded successfully.
+2024-10-03 20:18:49 - INFO: Environment variables loaded successfully.
+2024-10-03 20:18:49 - INFO: Remote server remoteServerTest1 started on port: 3000
+2024-10-03 20:18:49 - INFO: Starting remote server remoteServerTest1 on port 3000
+2024-10-03 20:18:49 - INFO: Added task dT1 to server r1
+2024-10-03 20:19:06 - INFO: Environment variables loaded successfully.
+2024-10-03 20:19:06 - INFO: Environment variables loaded successfully.
+2024-10-03 20:19:06 - INFO: Remote server remoteServerTest1 started on port: 3000
+2024-10-03 20:19:06 - INFO: Starting remote server remoteServerTest1 on port 3000
+2024-10-03 20:19:06 - INFO: Added task dT1 to server r1
+2024-10-03 20:20:48 - INFO: Environment variables loaded successfully.
+2024-10-03 20:20:48 - INFO: Environment variables loaded successfully.
+2024-10-03 20:20:48 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:20:48 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:20:48 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:20:48 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:21:19 - INFO: Environment variables loaded successfully.
+2024-10-03 20:21:19 - INFO: Environment variables loaded successfully.
+2024-10-03 20:21:19 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:21:19 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:21:19 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:21:19 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:21:19 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 20:21:19 - INFO: Starting remote server remoteServer3 on port 3000
+2024-10-03 20:21:29 - INFO: Environment variables loaded successfully.
+2024-10-03 20:21:29 - INFO: Environment variables loaded successfully.
+2024-10-03 20:21:29 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:21:29 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:21:29 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:21:29 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:21:29 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 20:21:29 - INFO: Starting remote server remoteServer3 on port 3000
+2024-10-03 20:21:36 - INFO: Environment variables loaded successfully.
+2024-10-03 20:21:36 - INFO: Environment variables loaded successfully.
+2024-10-03 20:21:36 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:21:36 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:21:36 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:21:36 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:21:40 - INFO: Starting remote server remoteServer3 on port 3000
+2024-10-03 20:21:40 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 20:21:55 - INFO: Environment variables loaded successfully.
+2024-10-03 20:21:55 - INFO: Environment variables loaded successfully.
+2024-10-03 20:21:55 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:21:55 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:21:55 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:21:55 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:22:22 - INFO: Starting remote server remoteServer3 on port 3000
+2024-10-03 20:22:22 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 20:22:54 - INFO: Environment variables loaded successfully.
+2024-10-03 20:22:54 - INFO: Environment variables loaded successfully.
+2024-10-03 20:22:54 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:22:54 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:22:58 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:22:58 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:22:58 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 20:22:58 - INFO: Starting remote server remoteServer3 on port 3000
+2024-10-03 20:28:39 - INFO: Environment variables loaded successfully.
+2024-10-03 20:28:39 - INFO: Environment variables loaded successfully.
+2024-10-03 20:28:39 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:28:39 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:28:39 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:28:39 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:28:39 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 20:28:39 - INFO: Starting remote server remoteServer3 on port 3000
+2024-10-03 20:29:43 - INFO: Environment variables loaded successfully.
+2024-10-03 20:29:43 - INFO: Environment variables loaded successfully.
+2024-10-03 20:29:43 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:29:43 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:29:43 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:29:43 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:29:43 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 20:29:43 - INFO: Starting remote server remoteServer3 on port 3000
+2024-10-03 20:31:55 - INFO: Environment variables loaded successfully.
+2024-10-03 20:31:55 - INFO: Environment variables loaded successfully.
+2024-10-03 20:31:55 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:31:55 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:31:55 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:31:55 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:31:55 - INFO: Starting remote server remoteServer3 on port 3000
+2024-10-03 20:31:55 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 20:32:59 - INFO: Environment variables loaded successfully.
+2024-10-03 20:32:59 - INFO: Environment variables loaded successfully.
+2024-10-03 20:32:59 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:32:59 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:33:03 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:33:03 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:33:03 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 20:33:03 - INFO: Starting remote server remoteServer3 on port 3000
+2024-10-03 20:33:10 - INFO: Environment variables loaded successfully.
+2024-10-03 20:33:10 - INFO: Environment variables loaded successfully.
+2024-10-03 20:33:10 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:33:10 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:33:11 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:33:11 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:33:11 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 20:33:11 - INFO: Starting remote server remoteServer3 on port 3000
+2024-10-03 20:33:21 - INFO: Environment variables loaded successfully.
+2024-10-03 20:33:21 - INFO: Environment variables loaded successfully.
+2024-10-03 20:33:21 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:33:21 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:33:23 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:33:23 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:33:23 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 20:33:23 - INFO: Starting remote server remoteServer3 on port 3000
+2024-10-03 20:34:53 - INFO: Environment variables loaded successfully.
+2024-10-03 20:34:53 - INFO: Environment variables loaded successfully.
+2024-10-03 20:34:53 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:34:53 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:34:53 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:34:53 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:34:53 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 20:34:53 - INFO: Starting remote server remoteServer3 on port 3000
+2024-10-03 20:35:06 - INFO: Environment variables loaded successfully.
+2024-10-03 20:35:06 - INFO: Environment variables loaded successfully.
+2024-10-03 20:35:22 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:35:22 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:35:27 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:35:27 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:35:31 - INFO: Starting remote server remoteServer3 on port 3000
+2024-10-03 20:35:31 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 20:35:58 - INFO: Environment variables loaded successfully.
+2024-10-03 20:35:58 - INFO: Environment variables loaded successfully.
+2024-10-03 20:36:01 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:36:01 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:36:02 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:36:02 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:36:34 - INFO: Starting remote server remoteServer3 on port 3000
+2024-10-03 20:36:34 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 20:36:36 - INFO: Environment variables loaded successfully.
+2024-10-03 20:36:36 - INFO: Environment variables loaded successfully.
+2024-10-03 20:36:37 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:36:37 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:36:38 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:36:38 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:36:40 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 20:36:40 - INFO: Starting remote server remoteServer3 on port 3000
+2024-10-03 20:36:46 - INFO: Environment variables loaded successfully.
+2024-10-03 20:36:46 - INFO: Environment variables loaded successfully.
+2024-10-03 20:36:47 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:36:47 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:36:47 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:36:47 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:36:49 - INFO: Starting remote server remoteServer3 on port 3000
+2024-10-03 20:38:22 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 20:40:36 - INFO: Environment variables loaded successfully.
+2024-10-03 20:40:36 - INFO: Environment variables loaded successfully.
+2024-10-03 20:40:36 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:40:36 - INFO: Remote server remoteServer1 failed to start on port: 3000
+2024-10-03 20:42:13 - INFO: Environment variables loaded successfully.
+2024-10-03 20:42:13 - INFO: Environment variables loaded successfully.
+2024-10-03 20:42:13 - INFO: Remote server remoteServer1 failed to start on port: 3000
+2024-10-03 20:42:13 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:44:16 - INFO: Environment variables loaded successfully.
+2024-10-03 20:44:16 - INFO: Environment variables loaded successfully.
+2024-10-03 20:44:16 - INFO: Remote server remoteServer1 failed to start on port: 3000
+2024-10-03 20:44:16 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:45:05 - INFO: Environment variables loaded successfully.
+2024-10-03 20:45:05 - INFO: Environment variables loaded successfully.
+2024-10-03 20:45:05 - INFO: Remote server remoteServer1 failed to start on port: 3000
+2024-10-03 20:45:05 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:45:05 - INFO: Remote server remoteServer1 failed to start on port: 3000
+2024-10-03 20:45:05 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:45:05 - INFO: Remote server remoteServer1 failed to start on port: 3000
+2024-10-03 20:45:05 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:45:05 - INFO: Remote server remoteServer1 failed to start on port: 3000
+2024-10-03 20:45:05 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:45:05 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:45:05 - INFO: Remote server remoteServer1 failed to start on port: 3000
+2024-10-03 20:45:17 - INFO: Environment variables loaded successfully.
+2024-10-03 20:45:18 - INFO: Environment variables loaded successfully.
+2024-10-03 20:45:18 - INFO: Remote server remoteServer1 failed to start on port: 3000
+2024-10-03 20:45:18 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:45:18 - INFO: Remote server remoteServer1 failed to start on port: 3000
+2024-10-03 20:45:18 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:45:18 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:45:18 - INFO: Remote server remoteServer1 failed to start on port: 3000
+2024-10-03 20:45:18 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:45:18 - INFO: Remote server remoteServer1 failed to start on port: 3000
+2024-10-03 20:45:18 - INFO: Remote server remoteServer1 failed to start on port: 3000
+2024-10-03 20:45:18 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:45:51 - INFO: Environment variables loaded successfully.
+2024-10-03 20:45:51 - INFO: Environment variables loaded successfully.
+2024-10-03 20:45:57 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:48:50 - INFO: Remote server remoteServer1 failed to start on port: 3000
+2024-10-03 20:48:56 - INFO: Environment variables loaded successfully.
+2024-10-03 20:48:56 - INFO: Environment variables loaded successfully.
+2024-10-03 20:49:09 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:49:28 - INFO: Remote server remoteServer1 failed to start on port: 3000
+2024-10-03 20:50:01 - INFO: Environment variables loaded successfully.
+2024-10-03 20:50:01 - INFO: Environment variables loaded successfully.
+2024-10-03 20:50:01 - INFO: Starting remote server r1 on port 3000
+2024-10-03 20:50:02 - INFO: Remote server r1 failed to start on port: 3000
+2024-10-03 20:50:23 - INFO: Email sent successfully to hellopixelsandkolors@gmail.com!
+2024-10-03 20:52:55 - INFO: Environment variables loaded successfully.
+2024-10-03 20:52:55 - INFO: Environment variables loaded successfully.
+2024-10-03 20:52:55 - INFO: Starting remote server r1 on port 3000
+2024-10-03 20:53:04 - INFO: Environment variables loaded successfully.
+2024-10-03 20:53:04 - INFO: Environment variables loaded successfully.
+2024-10-03 20:53:04 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:53:05 - INFO: Remote server r1 failed to start on port: 3000
+2024-10-03 20:53:13 - INFO: Email sent successfully to hellopixelsandkolors@gmail.com!
+2024-10-03 20:53:14 - INFO: Remote server remoteServer1 failed to start on port: 3000
+2024-10-03 20:56:51 - INFO: Environment variables loaded successfully.
+2024-10-03 20:56:51 - INFO: Environment variables loaded successfully.
+2024-10-03 20:56:51 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:56:51 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:56:51 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:56:51 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:56:51 - INFO: Added task dT1 to server r1
+2024-10-03 20:57:22 - INFO: Environment variables loaded successfully.
+2024-10-03 20:57:22 - INFO: Environment variables loaded successfully.
+2024-10-03 20:57:22 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:57:22 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:57:22 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:57:22 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:57:23 - INFO: Added task dT1 to server r1
+2024-10-03 20:57:33 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:57:33 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:57:33 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:57:33 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:57:33 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 20:57:33 - INFO: Added task dTask2 to server remoteServer2
+2024-10-03 20:57:34 - INFO: Task dTask1 executed successfully.
+2024-10-03 20:57:35 - INFO: Task dTask2 executed successfully.
+2024-10-03 20:57:35 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 20:57:35 - INFO: Starting remote server remoteServer1 on port 3000
+2024-10-03 20:57:35 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 20:57:35 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 20:57:40 - INFO: Email sent successfully to hellopixelsandkolors@gmail.com!
+2024-10-03 20:57:44 - INFO: Email sent successfully to hellopixelsandkolors@gmail.com!
+2024-10-03 20:57:45 - INFO: Email sent successfully to hellopixelsandkolors@gmail.com!
+2024-10-03 20:57:47 - INFO: Email sent successfully to hellopixelsandkolors@gmail.com!
+2024-10-03 20:57:47 - INFO: Email sent successfully to hellopixelsandkolors@gmail.com!
+2024-10-03 20:57:49 - INFO: Email sent successfully to hellopixelsandkolors@gmail.com!
+2024-10-03 21:00:55 - INFO: Environment variables loaded successfully.
+2024-10-03 21:00:55 - INFO: Environment variables loaded successfully.
+2024-10-03 21:00:55 - INFO: Starting remote server r1 on port 3000
+2024-10-03 21:00:55 - INFO: Remote server r1 started on port: 3000
+2024-10-03 21:00:55 - INFO: Added task dT1 to server r1
+2024-10-03 21:04:24 - INFO: Environment variables loaded successfully.
+2024-10-03 21:04:24 - INFO: Environment variables loaded successfully.
+2024-10-03 21:04:24 - INFO: Remote server r1 started on port: 3000
+2024-10-03 21:04:24 - INFO: Starting remote server r1 on port 3000
+2024-10-03 21:04:24 - INFO: Added task dT1 to server r1
+2024-10-03 21:09:15 - INFO: Environment variables loaded successfully.
+2024-10-03 21:09:15 - INFO: Environment variables loaded successfully.
+2024-10-03 21:09:15 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 21:09:15 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 21:09:15 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 21:10:23 - INFO: Environment variables loaded successfully.
+2024-10-03 21:10:23 - INFO: Environment variables loaded successfully.
+2024-10-03 21:10:23 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 21:10:23 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 21:10:23 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 21:10:23 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 21:10:53 - INFO: Environment variables loaded successfully.
+2024-10-03 21:10:53 - INFO: Environment variables loaded successfully.
+2024-10-03 21:10:53 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 21:10:53 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 21:10:53 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 21:10:55 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 21:11:08 - INFO: Environment variables loaded successfully.
+2024-10-03 21:11:08 - INFO: Environment variables loaded successfully.
+2024-10-03 21:11:08 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 21:11:08 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 21:11:08 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 21:11:38 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 21:12:02 - INFO: Environment variables loaded successfully.
+2024-10-03 21:12:02 - INFO: Environment variables loaded successfully.
+2024-10-03 21:12:02 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 21:12:02 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 21:12:02 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 21:12:13 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 21:13:44 - INFO: Environment variables loaded successfully.
+2024-10-03 21:13:50 - INFO: Environment variables loaded successfully.
+2024-10-03 21:13:50 - INFO: Remote server remoteServer1 started on port: 3000
+2024-10-03 21:13:50 - INFO: Remote server remoteServer2 started on port: 3001
+2024-10-03 21:31:41 - INFO: Remote server remoteServer3 started on port: 3000
+2024-10-03 21:31:41 - INFO: Starting remote server remoteServer2 on port 3001
+2024-10-03 21:43:12 - INFO: Environment variables loaded successfully.
+2024-10-03 21:43:19 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 21:44:05 - INFO: Environment variables loaded successfully.
+2024-10-03 21:44:27 - INFO: Environment variables loaded successfully.
+2024-10-03 21:46:38 - INFO: Environment variables loaded successfully.
+2024-10-03 21:46:53 - INFO: Environment variables loaded successfully.
+2024-10-03 21:48:16 - INFO: Environment variables loaded successfully.
+2024-10-03 21:50:23 - INFO: Environment variables loaded successfully.
+2024-10-03 21:51:51 - INFO: Environment variables loaded successfully.
+2024-10-03 21:51:51 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 21:52:31 - INFO: Environment variables loaded successfully.
+2024-10-03 21:56:09 - INFO: Environment variables loaded successfully.
+2024-10-03 21:56:09 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 21:56:35 - INFO: Environment variables loaded successfully.
+2024-10-03 22:00:47 - INFO: Environment variables loaded successfully.
+2024-10-03 22:00:47 - INFO: Environment variables loaded successfully.
+2024-10-03 22:01:52 - INFO: Environment variables loaded successfully.
+2024-10-03 22:01:52 - INFO: Environment variables loaded successfully.
+2024-10-03 22:10:54 - INFO: Environment variables loaded successfully.
+2024-10-03 22:12:27 - INFO: Environment variables loaded successfully.
+2024-10-03 22:18:20 - INFO: Environment variables loaded successfully.
+2024-10-03 22:18:20 - INFO: Added task dTask1 to server remoteServer1
+2024-10-03 22:34:35 - INFO: Environment variables loaded successfully.
+2024-10-03 22:34:35 - INFO: Environment variables loaded successfully.
+2024-10-03 22:34:36 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:34:36 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 22:34:36 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:34:36 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 22:34:36 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:34:36 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 22:34:36 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:34:36 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 22:34:36 - INFO: Added task PTask4 to server null
+2024-10-03 22:34:36 - INFO: Added task PTask1 to server null
+2024-10-03 22:34:36 - INFO: Added task PTask3 to server null
+2024-10-03 22:34:36 - INFO: Added task PTask2 to server null
+2024-10-03 22:35:03 - INFO: Environment variables loaded successfully.
+2024-10-03 22:35:03 - INFO: Environment variables loaded successfully.
+2024-10-03 22:35:42 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:35:46 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 22:35:49 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:35:50 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 22:35:53 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:35:54 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 22:35:56 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:35:57 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 22:36:05 - INFO: Added task PTask4 to server null
+2024-10-03 22:36:28 - INFO: Added task PTask1 to server null
+2024-10-03 22:36:28 - INFO: Added task PTask3 to server null
+2024-10-03 22:36:28 - INFO: Added task PTask2 to server null
+2024-10-03 22:41:09 - INFO: Environment variables loaded successfully.
+2024-10-03 22:41:10 - INFO: Environment variables loaded successfully.
+2024-10-03 22:41:13 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:41:13 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 22:41:13 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:41:13 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 22:41:13 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:41:13 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 22:41:13 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:41:13 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 22:44:30 - INFO: Added task PTask4 to server null
+2024-10-03 22:44:34 - INFO: Added task PTask1 to server null
+2024-10-03 22:44:34 - INFO: Added task PTask3 to server null
+2024-10-03 22:44:34 - INFO: Added task PTask2 to server null
+2024-10-03 22:44:41 - INFO: Environment variables loaded successfully.
+2024-10-03 22:44:41 - INFO: Environment variables loaded successfully.
+2024-10-03 22:45:04 - INFO: Environment variables loaded successfully.
+2024-10-03 22:45:04 - INFO: Environment variables loaded successfully.
+2024-10-03 22:46:24 - INFO: Environment variables loaded successfully.
+2024-10-03 22:46:24 - INFO: Environment variables loaded successfully.
+2024-10-03 22:46:24 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:46:24 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 22:46:24 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:46:24 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 22:46:24 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:46:24 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 22:46:24 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:46:24 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 22:46:24 - INFO: Added task PTask4 to server null
+2024-10-03 22:46:24 - INFO: Added task PTask1 to server null
+2024-10-03 22:46:24 - INFO: Added task PTask3 to server null
+2024-10-03 22:46:24 - INFO: Added task PTask2 to server null
+2024-10-03 22:46:33 - INFO: Environment variables loaded successfully.
+2024-10-03 22:46:33 - INFO: Environment variables loaded successfully.
+2024-10-03 22:46:34 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:46:34 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 22:46:34 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:46:34 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 22:46:34 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:46:34 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 22:46:34 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:46:34 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 22:47:17 - INFO: Added task PTask4 to server null
+2024-10-03 22:47:17 - INFO: Added task PTask1 to server null
+2024-10-03 22:47:17 - INFO: Added task PTask3 to server null
+2024-10-03 22:47:17 - INFO: Added task PTask2 to server null
+2024-10-03 22:47:21 - INFO: Environment variables loaded successfully.
+2024-10-03 22:47:21 - INFO: Environment variables loaded successfully.
+2024-10-03 22:55:32 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:55:32 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 22:55:32 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:55:32 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 22:55:32 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:55:32 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 22:55:32 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:55:32 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 22:55:32 - INFO: Added task PTask4 to server null
+2024-10-03 22:55:32 - INFO: Added task PTask1 to server null
+2024-10-03 22:55:32 - INFO: Added task PTask3 to server null
+2024-10-03 22:55:32 - INFO: Added task PTask2 to server null
+2024-10-03 22:55:35 - INFO: Environment variables loaded successfully.
+2024-10-03 22:55:35 - INFO: Environment variables loaded successfully.
+2024-10-03 22:55:35 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:55:35 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 22:55:35 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:55:35 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 22:55:35 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:55:35 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 22:55:35 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:55:35 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 22:55:35 - INFO: Added task PTask4 to server null
+2024-10-03 22:55:35 - INFO: Added task PTask1 to server null
+2024-10-03 22:55:35 - INFO: Added task PTask3 to server null
+2024-10-03 22:55:35 - INFO: Added task PTask2 to server null
+2024-10-03 22:55:53 - INFO: Environment variables loaded successfully.
+2024-10-03 22:55:53 - INFO: Environment variables loaded successfully.
+2024-10-03 22:56:01 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:56:01 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 22:56:01 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:56:01 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 22:56:01 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:56:01 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 22:56:01 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:56:01 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 22:59:46 - INFO: Added task PTask4 to server null
+2024-10-03 22:59:46 - INFO: Added task PTask1 to server null
+2024-10-03 22:59:46 - INFO: Added task PTask3 to server null
+2024-10-03 22:59:46 - INFO: Added task PTask2 to server null
+2024-10-03 22:59:50 - INFO: Environment variables loaded successfully.
+2024-10-03 22:59:50 - INFO: Environment variables loaded successfully.
+2024-10-03 22:59:50 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:59:50 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 22:59:50 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:59:50 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 22:59:50 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:59:50 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 22:59:50 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 22:59:50 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 23:00:14 - INFO: Environment variables loaded successfully.
+2024-10-03 23:00:14 - INFO: Environment variables loaded successfully.
+2024-10-03 23:00:34 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 23:00:34 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 23:00:34 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 23:00:34 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 23:00:34 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 23:00:34 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 23:00:34 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 23:00:34 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 23:03:19 - INFO: Environment variables loaded successfully.
+2024-10-03 23:03:19 - INFO: Environment variables loaded successfully.
+2024-10-03 23:03:19 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 23:03:19 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 23:03:19 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 23:03:19 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 23:03:19 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 23:03:19 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 23:03:19 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 23:03:19 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 23:03:29 - INFO: Environment variables loaded successfully.
+2024-10-03 23:03:29 - INFO: Environment variables loaded successfully.
+2024-10-03 23:03:29 - INFO: Task PTask1 is a priority task, casting to no dependency dependent task.
+2024-10-03 23:03:29 - INFO: Scheduling task PTask1 with priority MEDIUM and 0 dependencies
+2024-10-03 23:03:29 - INFO: Task PTask2 is a priority task, casting to no dependency dependent task.
+2024-10-03 23:03:29 - INFO: Scheduling task PTask2 with priority LOW and 0 dependencies
+2024-10-03 23:03:29 - INFO: Task PTask3 is a priority task, casting to no dependency dependent task.
+2024-10-03 23:03:29 - INFO: Scheduling task PTask3 with priority LOW and 0 dependencies
+2024-10-03 23:03:29 - INFO: Task PTask4 is a priority task, casting to no dependency dependent task.
+2024-10-03 23:03:29 - INFO: Scheduling task PTask4 with priority HIGH and 0 dependencies
+2024-10-03 23:03:29 - INFO: Task null is a priority task, casting to no dependency dependent task.
+2024-10-03 23:03:29 - INFO: Scheduling task null with priority HIGH and 0 dependencies
+2024-10-03 23:03:29 - INFO: Added task PTask1 to server MockServer1
+2024-10-03 23:03:51 - INFO: Email sent successfully to hellopixelsandkolors@gmail.com!
+2024-10-03 23:04:13 - INFO: Email sent successfully to hellopixelsandkolors@gmail.com!
+2024-10-03 23:04:35 - INFO: Email sent successfully to hellopixelsandkolors@gmail.com!
+2024-10-03 23:04:35 - INFO: Added task PTask1 to server TestServer
+2024-10-03 23:04:35 - INFO: Added task PTask2 to server TestServer
+2024-10-03 23:04:35 - INFO: Added task PTask3 to server TestServer
+2024-10-03 23:04:35 - INFO: Added task PTask4 to server TestServer
+2024-10-03 23:04:35 - INFO: Executed tasks on server TestServer: 1 tasks completed.
+2024-10-03 23:04:35 - INFO: Executed tasks on server TestServer: 2 tasks completed.
+2024-10-03 23:04:35 - INFO: Executed tasks on server TestServer: 3 tasks completed.
+2024-10-03 23:04:35 - INFO: Executed tasks on server TestServer: 4 tasks completed.
+2024-10-03 23:04:35 - INFO: Task Mock server 1 is a priority task, casting to no dependency dependent task.
+2024-10-03 23:04:35 - INFO: Scheduling task Mock server 1 with priority HIGH and 0 dependencies
+2024-10-03 23:54:23 - INFO: Environment variables loaded successfully.
+2024-10-03 23:54:31 - INFO: Environment variables loaded successfully.
+2024-10-03 23:54:53 - INFO: Email sent successfully to olugbadeboadesina@gmail.com!

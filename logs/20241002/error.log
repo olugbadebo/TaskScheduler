@@ -1,0 +1,24 @@
+2024-10-02 19:48:29 - ERROR: Error executing tasks: Cannot invoke "edu.cwru.ooa21.taskscheduler.models.Duration.toMillis()" because the return value of "edu.cwru.ooa21.taskscheduler.interfaces.Task.getTimeOut()" is null
+2024-10-02 19:48:29 - ERROR: Error executing tasks: Cannot invoke "edu.cwru.ooa21.taskscheduler.models.Duration.toMillis()" because the return value of "edu.cwru.ooa21.taskscheduler.interfaces.Task.getTimeOut()" is null
+2024-10-02 19:58:44 - ERROR: Task null failed to execute
+2024-10-02 19:59:58 - ERROR: Task null failed to execute
+2024-10-02 20:00:09 - ERROR: Task null failed to execute
+2024-10-02 20:00:23 - ERROR: Task null failed to execute
+2024-10-02 20:01:19 - ERROR: Task null failed to execute
+2024-10-02 20:02:45 - ERROR: Task null failed to execute
+2024-10-02 20:11:08 - ERROR: Task null failed to execute
+2024-10-02 20:13:03 - ERROR: Task null failed to execute
+2024-10-02 20:38:46 - ERROR: Task null timed out.
+2024-10-02 20:45:25 - ERROR: Task null timed out.
+2024-10-02 20:51:52 - ERROR: Task null timed out.
+2024-10-02 20:55:41 - ERROR: Task null timed out.
+2024-10-02 20:55:41 - ERROR: Error executing tasks: Task null timed out.
+2024-10-02 20:59:12 - ERROR: Task null timed out.
+2024-10-02 20:59:48 - ERROR: Task null timed out.
+2024-10-02 20:59:48 - ERROR: Error executing tasks: Task null timed out.
+2024-10-02 21:01:32 - ERROR: Task null timed out.
+2024-10-02 21:01:32 - ERROR: Error executing tasks: Task null timed out.
+2024-10-02 21:02:25 - ERROR: Task null timed out.
+2024-10-02 21:02:25 - ERROR: Error executing tasks: Task null timed out.
+2024-10-02 22:45:49 - ERROR: Task null timed out.
+2024-10-02 22:45:49 - ERROR: Error executing tasks: Task null timed out.
